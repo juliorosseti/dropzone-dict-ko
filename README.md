@@ -18,4 +18,4 @@ You can insert this file anywhere(but after Dropzone.js).
 ## License
 
 Public domain
-(http://creativecommons.org/publicdomain/mark/1.0/)
+http://creativecommons.org/publicdomain/mark/1.0/

@@ -6,7 +6,7 @@
  *
  * @author SnooeyNET(sople1@snooey.net) @sople1
  * @license Public Domain 
- * @see http://creativecommons.org/publicdomain/mark/1.0/
+ * @see http://github.com/sople1/dropzone-dict-ko
  */
 
 Dropzone.prototype.defaultOptions.dictDefaultMessage
