@@ -1,4 +1,4 @@
-# Dropzone Default Global Language Translate pack for Korean
+# Dropzone.js Default Global Language Translate pack for Korean
 
 Dropzone.js is a light weight JavaScript library that turns an HTML element into a dropzone. 
 This file is a little helper for Korean user. :)
