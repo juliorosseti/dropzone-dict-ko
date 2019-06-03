@@ -1,6 +1,6 @@
 {
   "name": "dropzone.dict-pt-br",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Pacote padrão de tradução do Português Brasileiro para o Dropzone.js",
   "main": "index.js",
   "scripts": {
