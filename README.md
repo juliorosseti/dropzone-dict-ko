@@ -1,4 +1,4 @@
-# Dropzone.js Pacote padrão de tradução para o Portugues Brasileiro
+# Dropzone.js Pacote padrão de tradução para o Português Brasileiro
 
 "Dropzone.js is a light weight JavaScript library that turns an HTML element into a dropzone."
 
