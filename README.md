@@ -1,19 +1,30 @@
-# Dropzone.js Default Global Language Translate pack for Korean
+# Dropzone.js Pacote padrão de tradução para o Portugues Brasileiro
 
-Dropzone.js is a light weight JavaScript library that turns an HTML element into a dropzone. 
+"Dropzone.js is a light weight JavaScript library that turns an HTML element into a dropzone."
 
-This file is a little helper for Korean user. :)
+Este arquivo é um pequeno que ajuda o usuário Brasileiro. :)
 
-[Dropzone.js Repository](//github.com/enyo/dropzone)
+[Dropzone.js Repositório](//github.com/enyo/dropzone)
 
-## How Can I Use?
+## Como usar?
 
-Very Simple.
-You can insert this file anywhere(but after Dropzone.js).
+Muito simples.
+Você pode inserir este arquivo em qualquer lugar (porém, depois do Dropzone.js).
 
 ```html
 <script src="/path/to/dropzone.min.js"></script><!-- Dropzone.js -->
-<script src="/path/to/dropzone.dict-ko.js"></script>
+<script src="/path/to/dropzone.dict-pt-BR.js"></script>
+```
+
+### Ou
+
+```bash
+npm i git+https://github.com/juliorosseti/dropzone-dict-pt-BR.git
+```
+
+```js
+require('dropzone')
+require('dropzone.dict-pt-BR')
 ```
 
 ## License
