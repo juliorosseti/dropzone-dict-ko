@@ -23,7 +23,7 @@
     "pt-br"
   ],
   "dependencies": {
-    "dropzone": "^5.5.1",
+    "dropzone": "^5.5.1"
   },
   "author": "Júlio Rosseti",
   "license": "MIT",
