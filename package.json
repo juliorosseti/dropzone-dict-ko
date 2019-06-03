@@ -1,8 +1,8 @@
 {
   "name": "dropzone.dict-pt-br",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Pacote padrão de tradução do Português Brasileiro para o Dropzone.js",
-  "main": "dropzone.dict-pt-BR.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,11 +15,9 @@
     "dropzone.js",
     "dropzone",
     "translate",
-    "portuguese",
-    "brazil",
     "portugues",
+    "brazil",
     "brasileiro",
-    "dropzone",
     "pt-br"
   ],
   "dependencies": {
@@ -28,7 +26,7 @@
   "author": "Júlio Rosseti",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/juliorosseti/dropzone-dict-pt-BR/issues"
+    "url": "https://github.com/juliorosseti/dropzone-dict-pt-br/issues"
   },
-  "homepage": "https://github.com/juliorosseti/dropzone-dict-pt-BR#readme"
+  "homepage": "https://github.com/juliorosseti/dropzone-dict-pt-br#readme"
 }

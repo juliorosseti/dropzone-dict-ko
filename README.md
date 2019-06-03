@@ -2,30 +2,33 @@
 
 "Dropzone.js is a light weight JavaScript library that turns an HTML element into a dropzone."
 
-Este arquivo é um pequeno que ajuda o usuário Brasileiro. :)
+Este pequeno arquivo ajuda os usuários Brasileiros. :)
 
 [Dropzone.js Repositório](//github.com/enyo/dropzone)
 
 ## Como usar?
 
-Muito simples.
-Você pode inserir este arquivo em qualquer lugar (porém, depois do Dropzone.js).
-
-```html
-<script src="/path/to/dropzone.min.js"></script><!-- Dropzone.js -->
-<script src="/path/to/dropzone.dict-pt-BR.js"></script>
-```
-
-### Ou
+Faça o download através do npm:
 
 ```bash
-npm i git+https://github.com/juliorosseti/dropzone-dict-pt-BR.git
+npm i dropzone.dict-pt-br
 ```
 
+E importe o módulo em seu projeto Vanilla JS.
+
+
 ```js
-require('dropzone')
+import Dropzone from 'dropzone'
+import 'dropzone.dict-pt-BR'
+```
+
+### OU
+
+```js
+const Dropzone = require('dropzone')
 require('dropzone.dict-pt-BR')
 ```
+
 
 ## License
 
