@@ -16,17 +16,16 @@ npm i dropzone.dict-pt-br
 
 E importe o módulo em seu projeto Vanilla JS.
 
-
 ```js
 import Dropzone from 'dropzone'
-import 'dropzone.dict-pt-BR'
+import 'dropzone.dict-pt-br'
 ```
 
 ### OU
 
 ```js
 const Dropzone = require('dropzone')
-require('dropzone.dict-pt-BR')
+require('dropzone.dict-pt-br')
 ```
 
 
