@@ -8,7 +8,7 @@ Este pequeno arquivo ajuda os usuários Brasileiros. :)
 
 ## Como usar?
 
-Faça o download através do npm:
+Faça o download através do [npm](//www.npmjs.com/package/dropzone.dict-pt-br):
 
 ```bash
 npm i dropzone.dict-pt-br
